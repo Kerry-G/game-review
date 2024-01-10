@@ -1,7 +1,7 @@
 # Cocoon
 
-Developer: Geometric Interactive (Denmark)
-Publisher: Annapurna Interactive
+* Developer: Geometric Interactive (Denmark)
+* Publisher: Annapurna Interactive
 
 ## One word: chore
 
